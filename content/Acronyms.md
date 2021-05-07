@@ -208,8 +208,8 @@ Internet and IT acronyms
 
 ----------
 
-<font size="2">Sources</font> 
-<font size="2">- Acronyms list on Timesnownews.com
-https://www.timesnownews.com/amp/the-buzz/article/internet-text-language-decoded-what-do-acronyms-like-btw-faq-fyi-imho-rtfm-mean/706270 </font> 
-<font size="2">- Discussion on Zaprogramuj Życie Discrod
+<font size="2">Sources</font><br> 
+<font size="2">- Acronyms list on Timesnownews.com<br>
+https://www.timesnownews.com/amp/the-buzz/article/internet-text-language-decoded-what-do-acronyms-like-btw-faq-fyi-imho-rtfm-mean/706270 </font><br> 
+<font size="2">- Discussion on Zaprogramuj Życie Discrod<br>
 https://discord.com/invite/45RjcPx</font> 

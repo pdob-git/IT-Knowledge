@@ -9,14 +9,8 @@ This is collection of IT Knowlege gahtered thanks to Zaprogramuj Życie communit
 -   **[Instagram](https://www.instagram.com/zaprogramujzycie.pl/)**
 
 ## Contents
-## - [[Acronyms]]
+## - [Acronyms](./content/Acronyms.md)
 
-----------
 
-<font size="2">Sources</font> 
-<font size="2">- Acronyms list on Timesnownews.com
-https://www.timesnownews.com/amp/the-buzz/article/internet-text-language-decoded-what-do-acronyms-like-btw-faq-fyi-imho-rtfm-mean/706270 </font> 
-<font size="2">- Discussion on Zaprogramuj Życie Discrod
-https://discord.com/invite/45RjcPx</font> 
 
 
