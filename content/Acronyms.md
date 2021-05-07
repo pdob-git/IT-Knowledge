@@ -1,5 +1,7 @@
 # Acronyms
 
+\<-- [Back](./../README.md)
+
 Internet and IT acronyms
 
 - AFAIC - "as far as I'm concerned", or "as far as I care", or "as far as I can..."
@@ -205,6 +207,8 @@ Internet and IT acronyms
 - newbie - a new user. Not a pejorative term (like the acronym RTFM is).
 
 - noob - a new user. Also spelt n00b, with two zeroes rather than two O's
+
+\<-- [Back](./../README.md)
 
 ----------
 
